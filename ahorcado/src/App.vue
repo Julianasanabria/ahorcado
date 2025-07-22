@@ -18,6 +18,7 @@
               <th>Dificultad</th>
               <th>Resultado</th>
               <th>Tiempo</th>
+              
               <th>Fecha</th>
             </tr>
           </thead>
